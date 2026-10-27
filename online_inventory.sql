@@ -1,5 +1,4 @@
 
-
 Create database BookStoreDB;
 
 use BookStoreDB;
