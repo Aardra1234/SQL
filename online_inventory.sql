@@ -1,7 +1,4 @@
 
-Add a new column called published_year (number) to the books table.
-Delete all rows from the books table without removing the table itself.
-Remove the BookStoreDB completely from the system.
 
 Create database BookStoreDB;
 
